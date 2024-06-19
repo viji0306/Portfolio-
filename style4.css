@@ -1,0 +1,33 @@
+body
+{
+    background-color: black;
+    color:white;
+}
+.container
+{
+    padding: 20px 10%;
+}
+.contact-left
+{
+    flex:35%;
+}
+.contact-left p{
+    margin-top: 30px;
+
+}
+.contact-left p i{
+    color:yellow;
+    margin-right: 15px;
+    font-size: 15px;
+}
+.social-icons
+{
+    margin: 30px;
+}
+.social-icons a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color: yellow;
+    display:inline-block
+}
